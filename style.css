@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 70px;
+    width: 100%;
+    background-color: ;
+}
+
+.ogol {
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+    float: left;
+}
+
+.menubar {
+    height: 100%;
+    width: 70%;
+    background-color: black;
+    float: right;
+}
+
+.logo {
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    /* float: right; */
+    background-color: red;
+}
+
+.banner {
+    height: 300px;
+    width: 95%;
+    margin: auto;
+    /* background-color: blue; */
+}
+
+.box-1 {
+    width: 60%;
+    height: 93%;
+    background-color: brown;
+    float: left;
+}
+
+.box-2 {
+    width: 40%;
+    height: 93%;
+    background-color: rgb(30, 196, 72);
+    float: left;
+}
+
+.box-3 {
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    float: left;
+}
+
+.service {
+    height: 300px;
+    width: 95%;
+    margin: auto;
+    background-color: aqua;
+}
+
+.s-1 {
+    height: 100%;
+    width: 33.33%;
+    background-color: rgb(182, 220, 14);
+    float: left;
+}
+
+.s-2 {
+    height: 100%;
+    width: 33.33%;
+    background-color: blue;
+    float: left;
+}
+
+.s-3 {
+    height: 100%;
+    width: 33.33%;
+    background-color: rgb(217, 15, 207);
+    float: left;
+}
+
+.portfolio {
+    height: calc( 600px - 105px);
+    width: calc(95% - 80px);
+    margin: auto;
+    background-color: lightcoral;
+    /* padding: 100px 100px; */
+    padding: 90px 40px;
+}
+
+.f-1 {
+    height: 250px;
+    width: 33.33%;
+    background-color: aqua;
+    float: left;
+}
+
+.f-2 {
+    height: 250px;
+    width: 33.33%;
+    background-color: rgb(255, 25, 0);
+    float: left;
+}
+
+.f-3 {
+    height: 250px;
+    width: 33.33%;
+    background-color: rgb(239, 12, 167);
+    float: left;
+}
+
+.f-4 {
+    height: 250px;
+    width: 33.33%;
+    background-color: rgb(25, 247, 25);
+    float: left;
+}
+
+.f-5 {
+    height: 250px;
+    width: 33.33%;
+    background-color: rgb(33, 40, 245);
+    float: left;
+}
+
+.f-6 {
+    height: 250px;
+    width: 33.33%;
+    background-color: rgb(255, 242, 0);
+    float: left;
+}
+
+.footer {
+    height: 100px;
+    width: 95%;
+    background-color: gray;
+    margin: auto;
+}
+
+.footer-1 {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+    background-color: red;
+}
